@@ -36,13 +36,13 @@ This program takes *two floating-point numbers* as input and *performs basic ari
 
 ### Input
 
-```bash
+```plaintext
 Enter two floating-point numbers when prompted.
 ```
 
 ### Output
 
-```bash
+```plaintext
 The program will display the input numbers and the results of the arithmetic operations.
 ```
 
