@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="GitHub Banner" src="../../assets/images/calculator-py-classwork-header.png">
+  <img alt="GitHub Banner" src="../../../assets/images/calculator-py-classwork-header.png">
 </div>
 
 <br>
@@ -64,5 +64,5 @@ Quotient: 1.4
 ###### tags: `Backend` `Python` `Beginner` `Educational` `Programming-Logic`
 
 <div align="center">
-  <img alt="GitHub Footer" src="../../assets/images/calculator-py-classwork-footer.png">
+  <img alt="GitHub Footer" src="../../../assets/images/yellow-footer.png">
 </div>
