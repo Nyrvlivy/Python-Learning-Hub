@@ -28,9 +28,11 @@
 
 ## Project Description
 
-This program takes *two floating-point numbers* as input and *performs basic arithmetic operations with them*. It calculates the **sum**, **difference**, **product**, and **quotient** of the two numbers. 
+<div style="text-align: justify;">
+    <p>This program takes <em>two floating-point numbers</em> as input and <em>performs basic arithmetic operations with them</em>. It calculates the <strong>sum</strong>, <strong>difference</strong>, <strong>product</strong>, and <strong>quotient</strong> of the two numbers.</p>
+    <p><em>Finally</em>, the program displays the input numbers and the results of the arithmetic operations.</p>
+</div>
 
-*Finally*, the program displays the input numbers and the results of the arithmetic operations.
 
 ## Usage
 
