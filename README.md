@@ -28,15 +28,18 @@
 
 ## Introduction
 
-This repository has been purposefully created to serve as my **personal record of activities** as I embark on my journey as a Python novice.
-
-However, it is also intended to be a valuable educational resource for you, as I plan to document my progress and understanding of the language here.
-
-This documentation will encompass a variety of _exercises_, _explanations_, _notes_, and _small projects_, spanning from the **beginner level** to the **intermediate level**.
-
-If you feel comfortable, please **fork** the repository and _make_ any _necessary additions_ or _modifications_.
-
-You can contact me via a _pull request (PR)_ or by _sending an email_ to [brumassiip@gmail.com](mailto:brumassiip@gmail.com).
+<div style="display: flex; align-items: flex-start;">
+    <div style="flex: 2.3; text-align: justify; margin-right: 20px; align-self: flex-start;">
+        <p>This repository has been purposefully created to serve as my <strong>personal record of activities</strong> as I embark on my journey as a Python novice.</p>
+        <p>However, it is also intended to be a valuable educational resource for you, as I plan to document my progress and understanding of the language here.</p>
+        <p>This documentation will encompass a variety of <em>exercises</em>, <em>explanations</em>, <em>notes</em>, and <em>small projects</em>, spanning from the <strong>beginner level</strong> to the <strong>intermediate level</strong>.</p>
+        <p>If you feel comfortable, please <strong>fork</strong> the repository and <em>make</em> any <em>necessary additions</em> or <em>modifications</em>.</p>
+        <p>You can contact me via a <em>pull request (PR)</em> or by <em>sending an email</em> to <a href="mailto:brumassiip@gmail.com">brumassiip@gmail.com</a>.</p>
+    </div>
+    <div style="flex: 1; margin-left: 10px;">
+        <img src="https://media.tenor.com/24epXdLCfYkAAAAd/loops-in-python.gif" alt="Loops In Python GIF" style="max-width: 100%; height: auto;">
+    </div>
+</div>
 
 ## Project Structure
 
@@ -58,19 +61,20 @@ Inside each level, you will find two folders:
 
 To navigate through the repository and access the learning materials, follow these steps:
 
-1. **Choose Skill Level:** Pick your Python proficiency level: *beginner*, *basic*, or *intermediate*.
+1. **Choose Skill Level:** Pick your Python proficiency level: _beginner_, _basic_, or _intermediate_.
 
-2. **Select Activity Type:** Decide between *classwork* or *homework* assignments.
+2. **Select Activity Type:** Decide between _classwork_ or _homework_ assignments.
 
-3. **Explore Activities:** In the respective folders, find individual activities with *README files* for guidance.
+3. **Explore Activities:** In the respective folders, find individual activities with _README files_ for guidance.
 
 4. **Start Coding:** Follow the `README.md` instructions to complete tasks and learn as you go.
 
 ## Contributing
 
-**Contributing is a powerful way to share our knowledge and experience for the creation of a more inclusive and welcoming community.** 
-
-If you have educational materials, exercises, or Python-related projects that you'd like to share with us, please feel free to do so. *Consider making a contribution*:
+<div style="text-align: justify;">
+    <p><strong>Contributing is a powerful way to share our knowledge and experience for the creation of a more inclusive and welcoming community.</strong></p>
+    <p>If you have educational materials, exercises, or Python-related projects that you'd like to share with us, please feel free to do so. <em>Consider making a contribution:</em></p>
+</div>
 
 - [x] **Fork this repository** to your GitHub account;
 - [ ] **Clone your repository** to your local machine;
@@ -82,9 +86,10 @@ If you have educational materials, exercises, or Python-related projects that yo
 
 ## License
 
-This **Python Education Repository** is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the materials within this repository for educational purposes. 
-
-*However*, please be aware that third-party libraries or resources may come with their own licenses and usage restrictions, and it is crucial to bear in mind the importance of providing proper attribution when required to comply with licensing requirements.
+<div style="text-align: justify;">
+    <p>This <strong>Python Education Repository</strong> is licensed under the <a href="LICENSE">MIT License</a>. You are free to use, modify, and distribute the materials within this repository for educational purposes.</p>
+    <p><em>However</em>, please be aware that third-party libraries or resources may come with their own licenses and usage restrictions, and it is crucial to bear in mind the importance of providing proper attribution when required to comply with licensing requirements.</p>
+</div>
 
 ##
 
