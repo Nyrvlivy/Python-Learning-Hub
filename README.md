@@ -5,8 +5,8 @@
 <br>
 
 <div align="center">
-  <h1 align="center">Python Education Repository</h1>
-  <p align="center">Welcome to the Python Education Repository! </p>
+  <h1 align="center">Python Learning Hub</h1>
+  <p align="center">Welcome to the Python Learning Hub! </p>
 </div>
 
 <div align="center">
